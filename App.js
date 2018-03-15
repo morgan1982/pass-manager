@@ -17,10 +17,10 @@ export default class App extends React.Component {
           {
             appName: "codewars",
             user: "mike",
-            pass: "rza851"
+            pass: "test"
           },
           {
-            appName: "kolos",
+            appName: "test2",
             user: "konos",
             pass: "kanoni"
           }
@@ -29,7 +29,7 @@ export default class App extends React.Component {
       record : {
         appName : "udemy",
         user : "rafael",
-        pass : "rza851" 
+        pass : "test" 
       }
     }
   }
